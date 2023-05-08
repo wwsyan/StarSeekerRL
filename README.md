@@ -15,7 +15,7 @@
   <img src="img/gameplay_shield.gif" width="30%" height="30%">
 </details>
 
-2️⃣**火球术**：摧毁 $5×5$ 范围内的星星。
+2️⃣**火球术**：摧毁 $3×3$ 范围内的星星。
 <details>
   <summary>图示</summary>
   <img src="img/gameplay_fireball.gif" width="30%" height="30%">
