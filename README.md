@@ -61,7 +61,7 @@
 ### 专家知识AI一览
 <details>
   <summary>图示</summary>
-  <img src="img/expertAI.gif" width="75%" height="75%">
+  <img src="img/expertAI.gif" width="65%" height="65%">
 </details>
 
 
