@@ -59,6 +59,10 @@
 |适配的MCTS插件|待施工|
 
 ### 专家知识AI一览
+<details>
+  <summary>图示</summary>
+  <img src="img/expertAI.gif" width="50%" height="50%">
+</details>
 
 
 
